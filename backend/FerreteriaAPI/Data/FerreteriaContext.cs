@@ -27,5 +27,4 @@ namespace FerreteriaAPI.Data
                 .IsUnique();
         }
     }
-}Restauración completada (0.4s)
- 
+}
